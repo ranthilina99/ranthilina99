@@ -16,7 +16,6 @@
 
 </br>
 
-<br />
 ---
 ![Umesh's github stats](https://github-readme-stats.vercel.app/api?username=ranthilina99&show_icons=true)
 
