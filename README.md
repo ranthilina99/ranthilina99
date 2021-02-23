@@ -43,10 +43,10 @@
 [linkedin]: https://www.linkedin.com/in/umesh-ranthilina-209b071a1/
 [Facebook]: https://www.facebook.com/umesh.ranthilina.902/
 [StackOverFlow]: https://stackoverflow.com/users/15264374/umesh-ranthilina
-[webdevplaylist]: https://raw.githubusercontent.com/github/explor
-[jsplaylist]: https://raw.githubusercontent.com/github/explor
-[cssplaylist]: https://raw.githubusercontent.com/github/explor
-[reactplaylist]:https://raw.githubusercontent.com/github/explor
+[webdevplaylist]: https://raw.githubusercontent.com/github/explore
+[jsplaylist]: https://raw.githubusercontent.com/github/explore
+[cssplaylist]: https://raw.githubusercontent.com/github/explore
+[reactplaylist]:https://raw.githubusercontent.com/github/explore
 
 </br>
 <!---
