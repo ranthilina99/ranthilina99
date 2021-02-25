@@ -19,9 +19,8 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://open.spotify.com/track/6XGzu1pakc6yjqNiBUHgup?si=11e7354f88484dda" alt="umesh ranthilina Spotify Playing" width="350" />](https://open.spotify.com/user/ymdu0pokv06x1cc1tsgfi8lht)
 
-<br />
 <br />
 
 ### Languages and Tools:
